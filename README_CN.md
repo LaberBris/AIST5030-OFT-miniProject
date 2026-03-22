@@ -1,5 +1,7 @@
 # Qwen3-1.7B OFT 微调指南
 
+**中文版本** | [English Version](README.md)
+
 本指南提供了在 Qwen3-1.7B 模型上使用 OFT (Orthogonal Fine-Tuning) 进行微调的详细步骤。
 
 ## 目录

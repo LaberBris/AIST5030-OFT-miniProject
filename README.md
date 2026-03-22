@@ -1,5 +1,7 @@
 # Qwen3-1.7B OFT Fine-Tuning Guide
 
+[中文版本](README_CN.md) | **English Version**
+
 This guide provides detailed steps for fine-tuning the Qwen3-1.7B model using OFT (Orthogonal Fine-Tuning).
 
 ## Table of Contents
