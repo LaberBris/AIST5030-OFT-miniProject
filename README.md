@@ -6,6 +6,7 @@ This guide provides detailed steps for fine-tuning the Qwen3-1.7B model using OF
 
 - `src/test_model.py` - Test model inference and evaluate accuracy
 - `src/train_qwen3_oft.py` - OFT fine-tuning training script
+- `report/` - Project report directory containing [report.pdf](report/report.pdf)
 
 ## Environment Setup
 

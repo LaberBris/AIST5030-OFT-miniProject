@@ -6,6 +6,7 @@
 
 - `src/test_model.py` - 测试模型推理和评估准确率
 - `src/train_qwen3_oft.py` - OFT 微调训练脚本
+- `report/` - 项目报告目录，包含 [report.pdf](report/report.pdf)
 
 ## 环境准备
 
